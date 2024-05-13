@@ -6,7 +6,7 @@ const recordContainer = document.getElementById('record');
 let score = 0;
 let record = 0;
 
-const images = ['image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg']; // Add your image filenames here
+const images = ['image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg']; // Add your image filenames here
 const aiImages = ['yes', 'no']; // Add 'yes' for AI-generated images, 'no' for non-AI-generated images
 let currentImageIndex = 0;
 
